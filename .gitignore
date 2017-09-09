@@ -1,10 +1,7 @@
-/nbproject/
 .idea
 composer.lock
 *.log
 *.css.map
-thinkphp
-vendor
 runtime
 addons
 public/assets/libs/
