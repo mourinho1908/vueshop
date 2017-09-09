@@ -22,7 +22,9 @@
         "topthink/think-captcha": "^1.0",
         "mtdowling/cron-expression": "^1.2",
         "phpmailer/phpmailer": "^5.2",
-        "karsonzhang/fastadmin-addons": "dev-master"
+        "karsonzhang/fastadmin-addons": "dev-master",
+        "mongodb/mongodb": "1.2.x-dev",
+        "topthink/think-mongo": "2.0.x-dev"
     },
     "config": {
         "preferred-install": "dist"

@@ -29,9 +29,9 @@ class Index extends Backend
         //
         $menulist = $this->auth->getSidebar([
             'dashboard'  => 'hot',
-            'addon'       => ['new', 'red', 'badge'],
-            'auth/rule'  => 'side',
-            'general'    => ['18', 'purple'],
+            //'addon'       => ['new', 'red', 'badge'],
+            //'auth/rule'  => 'side',
+            //'general'    => ['18', 'purple'],
                 ], $this->view->site['fixedpage']);
         $this->view->assign('menulist', $menulist);
         $this->view->assign('title', __('Home'));

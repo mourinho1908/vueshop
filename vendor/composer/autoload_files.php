@@ -14,4 +14,5 @@ return array(
     '1cfd2761b63b0a29ed23657ea394cb2d' => $vendorDir . '/topthink/think-captcha/src/helper.php',
     '9e090711773bfc38738f5dbaee5a7f14' => $vendorDir . '/overtrue/wechat/src/Payment/helpers.php',
     '488987c28e9b5e95a1ce6b6bcb94606c' => $vendorDir . '/karsonzhang/fastadmin-addons/src/common.php',
+    '3a37ebac017bc098e9a86b35401e7a68' => $vendorDir . '/mongodb/mongodb/src/functions.php',
 );

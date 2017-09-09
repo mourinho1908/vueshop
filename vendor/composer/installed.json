@@ -17,7 +17,7 @@
         "require": {
             "php": ">=5.3.0"
         },
-        "time": "2016-08-06 14:39:51",
+        "time": "2016-08-06T14:39:51+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -78,7 +78,7 @@
             "psr/http-message-implementation": "To use the HttpFoundation factory",
             "zendframework/zend-diactoros": "To use the Zend Diactoros factory"
         },
-        "time": "2016-09-14 18:37:20",
+        "time": "2016-09-14T18:37:20+00:00",
         "type": "symfony-bridge",
         "extra": {
             "branch-alias": {
@@ -134,7 +134,7 @@
         "require-dev": {
             "phpunit/phpunit": "^4.0"
         },
-        "time": "2016-12-20 10:07:11",
+        "time": "2016-12-20T10:07:11+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -191,7 +191,7 @@
         "require-dev": {
             "phpunit/phpunit": "~4.0"
         },
-        "time": "2017-03-20 17:10:46",
+        "time": "2017-03-20T17:10:46+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -251,7 +251,7 @@
         "require": {
             "php": ">=5.3.0"
         },
-        "time": "2016-10-10 12:19:37",
+        "time": "2016-10-10T12:19:37+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -297,7 +297,7 @@
             "reference": "0c55455df26a1626a60d0dc35d2d89002b741d44",
             "shasum": ""
         },
-        "time": "2016-07-06 01:47:11",
+        "time": "2016-07-06T01:47:11+00:00",
         "type": "library",
         "installation-source": "dist",
         "autoload": {
@@ -341,7 +341,7 @@
         "require-dev": {
             "phpunit/phpunit": "~4.0|~5.0"
         },
-        "time": "2017-01-23 04:29:33",
+        "time": "2017-01-23T04:29:33+00:00",
         "type": "library",
         "installation-source": "dist",
         "autoload": {
@@ -387,7 +387,7 @@
         "require-dev": {
             "composer/composer": "1.0.*@dev"
         },
-        "time": "2017-05-27 06:58:09",
+        "time": "2017-05-27T06:58:09+00:00",
         "type": "composer-plugin",
         "extra": {
             "class": "think\\composer\\Plugin"
@@ -430,7 +430,7 @@
         "suggest": {
             "ext-mbstring": "For best performance"
         },
-        "time": "2017-06-09 14:24:12",
+        "time": "2017-06-09T14:24:12+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -518,7 +518,7 @@
             "ruflin/elastica": "Allow sending log messages to an Elastic Search server",
             "sentry/sentry": "Allow sending log messages to a Sentry server"
         },
-        "time": "2017-06-19 01:22:40",
+        "time": "2017-06-19T01:22:40+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -577,7 +577,7 @@
             "symfony/framework-bundle": "^2.3|^3.0",
             "symfony/http-kernel": "^2.3|^3.0"
         },
-        "time": "2017-04-08 09:13:59",
+        "time": "2017-04-08T09:13:59+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -639,7 +639,7 @@
             "phpunit/phpunit": "4.8.*",
             "sebastian/phpcpd": "2.*"
         },
-        "time": "2017-07-04 03:46:13",
+        "time": "2017-07-04T03:46:13+00:00",
         "type": "think-framework",
         "installation-source": "dist",
         "autoload": {
@@ -683,7 +683,7 @@
         "require": {
             "php": ">=5.3.0"
         },
-        "time": "2017-02-14 16:28:37",
+        "time": "2017-02-14T16:28:37+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -744,7 +744,7 @@
         "suggest": {
             "psr/log": "Required for using the Log middleware"
         },
-        "time": "2017-06-22 18:50:49",
+        "time": "2017-06-22T18:50:49+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -809,7 +809,7 @@
             "predis/predis": "~1.0",
             "satooshi/php-coveralls": "~0.6"
         },
-        "time": "2017-07-22 12:49:21",
+        "time": "2017-07-22T12:49:21+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -877,7 +877,7 @@
         "require-dev": {
             "symfony/phpunit-bridge": "^3.2"
         },
-        "time": "2017-07-23 07:32:15",
+        "time": "2017-07-23T07:32:15+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -929,7 +929,7 @@
         "require-dev": {
             "symfony/expression-language": "~2.8|~3.0"
         },
-        "time": "2017-07-21 11:04:46",
+        "time": "2017-07-21T11:04:46+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -986,7 +986,7 @@
             "mockery/mockery": "~0.9",
             "phpunit/phpunit": "~4.0"
         },
-        "time": "2017-07-27 08:22:56",
+        "time": "2017-07-27T08:22:56+00:00",
         "type": "library",
         "installation-source": "dist",
         "autoload": {
@@ -1045,7 +1045,7 @@
             "overtrue/phplint": "dev-master",
             "phpunit/phpunit": "~4.0"
         },
-        "time": "2017-08-01 09:38:23",
+        "time": "2017-08-01T09:38:23+00:00",
         "type": "library",
         "installation-source": "dist",
         "autoload": {
@@ -1116,7 +1116,7 @@
         "suggest": {
             "league/oauth2-google": "Needed for Google XOAUTH2 authentication"
         },
-        "time": "2017-07-26 21:00:20",
+        "time": "2017-07-26T21:00:20+00:00",
         "type": "library",
         "installation-source": "dist",
         "autoload": {
@@ -1171,7 +1171,7 @@
         "require": {
             "php": ">=5.5.9"
         },
-        "time": "2017-04-12 14:14:56",
+        "time": "2017-04-12T14:14:56+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -1224,7 +1224,7 @@
             "reference": "0c99dc625b0d2d4124e1b6ca15a3ad6f0125963f",
             "shasum": ""
         },
-        "time": "2017-04-05 07:15:37",
+        "time": "2017-04-05T07:15:37+00:00",
         "type": "library",
         "installation-source": "dist",
         "autoload": {
@@ -1267,7 +1267,7 @@
             "topthink/think-helper": ">=1.0.4",
             "topthink/think-installer": ">=1.0.10"
         },
-        "time": "2017-08-09 04:12:23",
+        "time": "2017-08-09T04:12:23+00:00",
         "type": "library",
         "extra": {
             "think-config": {
@@ -1299,5 +1299,106 @@
         ],
         "description": "addons package for fastadmin",
         "homepage": "https://github.com/karsonzhang/fastadmin-addons"
+    },
+    {
+        "name": "mongodb/mongodb",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/mongodb/mongo-php-library.git",
+            "reference": "41857f99145772a87131711d79ce58618df58d73"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://files.phpcomposer.com/files/mongodb/mongo-php-library/41857f99145772a87131711d79ce58618df58d73.zip",
+            "reference": "41857f99145772a87131711d79ce58618df58d73",
+            "shasum": ""
+        },
+        "require": {
+            "ext-mongodb": "^1.2.0",
+            "php": ">=5.4"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "^4.8"
+        },
+        "time": "2017-08-25T21:28:08+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "1.2.x-dev"
+            }
+        },
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "MongoDB\\": "src/"
+            },
+            "files": [
+                "src/functions.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "Apache-2.0"
+        ],
+        "authors": [
+            {
+                "name": "Jeremy Mikola",
+                "email": "jmikola@gmail.com"
+            },
+            {
+                "name": "Hannes Magnusson",
+                "email": "bjori@mongodb.com"
+            },
+            {
+                "name": "Derick Rethans",
+                "email": "github@derickrethans.nl"
+            }
+        ],
+        "description": "MongoDB driver library",
+        "homepage": "https://jira.mongodb.org/browse/PHPLIB",
+        "keywords": [
+            "database",
+            "driver",
+            "mongodb",
+            "persistence"
+        ]
+    },
+    {
+        "name": "topthink/think-mongo",
+        "version": "2.0.x-dev",
+        "version_normalized": "2.0.9999999.9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/top-think/think-mongo.git",
+            "reference": "bc5aae6ef58b17b6d2dd75f839acb0a8a3670c49"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://files.phpcomposer.com/files/top-think/think-mongo/bc5aae6ef58b17b6d2dd75f839acb0a8a3670c49.zip",
+            "reference": "bc5aae6ef58b17b6d2dd75f839acb0a8a3670c49",
+            "shasum": ""
+        },
+        "time": "2017-07-19T04:15:59+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "think\\mongo\\": "src"
+            },
+            "files": []
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "Apache-2.0"
+        ],
+        "authors": [
+            {
+                "name": "liu21st",
+                "email": "liu21st@gmail.com"
+            }
+        ],
+        "description": "mongodb driver for thinkphp5"
     }
 ]

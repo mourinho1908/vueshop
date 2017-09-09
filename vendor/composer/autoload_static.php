@@ -15,11 +15,13 @@ class ComposerStaticInitd15e2bd93c7f83bfccc320b8bde0c0e9
         '1cfd2761b63b0a29ed23657ea394cb2d' => __DIR__ . '/..' . '/topthink/think-captcha/src/helper.php',
         '9e090711773bfc38738f5dbaee5a7f14' => __DIR__ . '/..' . '/overtrue/wechat/src/Payment/helpers.php',
         '488987c28e9b5e95a1ce6b6bcb94606c' => __DIR__ . '/..' . '/karsonzhang/fastadmin-addons/src/common.php',
+        '3a37ebac017bc098e9a86b35401e7a68' => __DIR__ . '/..' . '/mongodb/mongodb/src/functions.php',
     );
 
     public static $prefixLengthsPsr4 = array (
         't' => 
         array (
+            'think\\mongo\\' => 12,
             'think\\helper\\' => 13,
             'think\\composer\\' => 15,
             'think\\captcha\\' => 14,
@@ -45,6 +47,7 @@ class ComposerStaticInitd15e2bd93c7f83bfccc320b8bde0c0e9
         'M' => 
         array (
             'Monolog\\' => 8,
+            'MongoDB\\' => 8,
         ),
         'G' => 
         array (
@@ -68,6 +71,10 @@ class ComposerStaticInitd15e2bd93c7f83bfccc320b8bde0c0e9
     );
 
     public static $prefixDirsPsr4 = array (
+        'think\\mongo\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/topthink/think-mongo/src',
+        ),
         'think\\helper\\' => 
         array (
             0 => __DIR__ . '/..' . '/topthink/think-helper/src',
@@ -120,6 +127,10 @@ class ComposerStaticInitd15e2bd93c7f83bfccc320b8bde0c0e9
         'Monolog\\' => 
         array (
             0 => __DIR__ . '/..' . '/monolog/monolog/src/Monolog',
+        ),
+        'MongoDB\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/mongodb/mongodb/src',
         ),
         'GuzzleHttp\\Psr7\\' => 
         array (
